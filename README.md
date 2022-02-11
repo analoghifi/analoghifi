@@ -1,6 +1,6 @@
 dedicated to pure analog HiFi  
 no Class-D / no SMPS / no DSP / no Microcontroller ...   
-Oldscool German THEL and ALBS Products are my reference  
+oldscool German THEL and ALBS products are my reference  
 each repo here features one of these vintage products (most of them modules for DIY Hifi)    
 
 In future (bit by bit):  
